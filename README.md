@@ -27,4 +27,4 @@ NB: Be free to make your own reasonable assumptions. Please state any assumption
 ### Code
 
 [01 - Big Pharma Stock Demand](Big_Pharma_Stock_Demand.ipynb)
-[![Binder](https://camo.githubusercontent.com/483bae47a175c24dfbfc57390edd8b6982ac5fb3/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667)](https://mybinder.org/v2/gh/AbdelTID/DA_Submission02/HEAD).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdelTID/DA_Submission02/HEAD).
