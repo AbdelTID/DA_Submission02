@@ -6,3 +6,4 @@ plotly==5.8.0
 ipywidgets==7.7.0
 statsmodels==0.13.2
 sklearn==0.0
+openpyxl==3.0.10
